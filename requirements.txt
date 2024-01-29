@@ -1,6 +1,6 @@
 absl-py==0.14.1
 astor==0.8.1
-bleach==4.2.4
+bleach==4.1.0
 bottle==0.12.19
 click==8.0.4
 certifi==2021.5.30
